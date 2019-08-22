@@ -1,0 +1,18 @@
+    1  whoami
+    2  hostname
+    3  less
+    4  less --help
+    5  head
+    6  man
+    7  man man
+    8  pwd
+    9  mkdir ~/week1
+   10  cd ~/week1
+   11  ls /usr/bin | sort -r > a.txt
+   12  grep gcc a.txt > ex1.txt
+   13  gcc
+   14* 
+   15  sudo apt install gcc
+   16  ls /usr/bin | sort -r > a.txt
+   17  grep gcc a.txt > ex1.txt
+   18  history > ex2.txt
