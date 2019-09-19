@@ -1,4 +1,5 @@
 ans=0
+touch ex2.txt
 while :
 do
 	ans=$(( ans+1 ))
