@@ -1,2 +1,3 @@
 What is the difference between physical and virtual address?
-The physical address is the actual address in memory, while the virtual address is used by processes and mapped by MMU onto physical address.
+The physical address is the actual address in memory, while the 
+virtual address is used by processes and mapped by MMU onto physical address.
