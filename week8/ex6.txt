@@ -3,4 +3,4 @@ A machine has 16-bit virtual addresses. Pages are 8 KB. How many entries are nee
 
 Let's convert the page size to bytes: 8 KB = 2^13 B.
 From that converting we know that offset is 13 bits.
-Number of virtual pages = number of entries in page table = 2^(16-13) = 2^3    
+Number of virtual pages = number of entries in page table = 2^(16-13) = 2^3 = 8   
